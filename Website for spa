@@ -1,0 +1,6 @@
+Set up the initial structure for the SPA website by creating the following files:
+
+index.html: The main HTML file for the web application.
+style.css: The stylesheet for all custom styles.
+script.js: The primary JavaScript file where all functionality will be implemented.
+Each file should be ready for development and linked properly. This sets the foundation for further implementation of features for the SPA website.
